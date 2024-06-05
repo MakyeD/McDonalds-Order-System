@@ -1,2 +1,2 @@
-# McDonalds-Order-System
-CS1520 Final Project Fall 2023
+# Expense Tracker
+Expense Tracker made using JS, React, MongoDB, and Postman. 
